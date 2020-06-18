@@ -164,17 +164,17 @@ p {
   }
 }
 .box-wrapper {
-    background: #d0d0d0;
+    background: greenyellow;
     border: 2px solid black;
     margin: 15px;
 }
 
 .chicken {
-    background: pink;
+    background: coral;
 }
 .beef{
     color: white;
-    background: red;
+    background: olivedrab;
 }
 .sushi{
     background: yellow;
