@@ -1,0 +1,25 @@
+.navbar {
+  background-color: lightgray;
+}
+
+.navbar-default .navbar-brand {
+  color: black;
+}
+
+#bs-example-navbar-collapse-1 {
+  text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+}
+
+.menu-items {
+  text-align: center;
+  margin: 10%;
+  /* height: 1000px; */
+  /* border-style: solid; */
+  border-color: black;
+  background-color: lightgray;
+  color: black;
+}
